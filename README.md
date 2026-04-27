@@ -1,4 +1,4 @@
-# Dryad Plant Journal 🌿
+# Dryad Plant Journal - alpha - 🌿
 
 Hey there gardeners! I've been working on a project that I want to share with you. I was having troubles holding onto my plant data in a way that made sense for me as a home gardener. I love journaling my grows but hated the apps I found for the amount of ads they had and that they would hang onto my data. 
 
