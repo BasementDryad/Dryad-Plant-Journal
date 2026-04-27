@@ -2,7 +2,7 @@
 
 Hey there gardeners! I've been working on a project that I want to share with you. I was having troubles holding onto my plant data in a way that made sense for me as a home gardener. I love journaling my grows but hated the apps I found for the amount of ads they had and that they would hang onto my data. 
 
-So, I started making my own app: **BasementDryad Plant Journal**. It's still in Alpha, but it's coming along well enough that I'd like to get it into more hands. This app is focused specifically on the home gardener.
+So, I started making my own app: **Dryad Plant Journal**. It's still in Alpha, but it's coming along well enough that I'd like to get it into more hands. This app is focused specifically on the home gardener.
 
 ### 📥 [Download the Latest Build](https://github.com/BasementDryad/Dryad-Plant-Journal/releases/latest)
 
