@@ -4,7 +4,7 @@ Hey there gardeners! I've been working on a project that I want to share with yo
 
 So, I started making my own app: **BasementDryad Plant Journal**. It's still in Alpha, but it's coming along well enough that I'd like to get it into more hands. This app is focused specifically on the home gardener.
 
-### 📥 [Download the Latest Build](https://github.com/BasementDryad/BasementDryadPlantJournal/releases/latest)
+### 📥 [Download the Latest Build](https://github.com/BasementDryad/Dryad-Plant-Journal/releases/latest)
 
 ---
 
