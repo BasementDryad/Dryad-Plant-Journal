@@ -14,17 +14,19 @@ So, I started making my own app: **Dryad Plant Journal**. It's still in Alpha, b
 - **It's your data, period**: Everything is stored locally on your device. No cloud, no prying eyes.
 - **Strictly No ADs**: A clean, distraction-free space to focus on your garden.
 
-### 📝 Journaling that makes sense
-- **Daily Logs**: Quickly track water, feed, light, and the environment without the headache.
-- **Vibe Tracking**: Rate each entry with a 1-5 star "Vibe" to track how your plants are actually feeling.
-- **Rich Media**: Snap up to 3 photos and a video per log, then check them out in a full-screen viewer.
-- **Smart History**: Highlight important logs with one tap and let the app pre-fill data from your last entry to save time.
-- **Custom Profiles**: Track Cultivar / Variety, Genotype / Species, and Growth Habit / Culture Type.
+### 📝 Journaling & Analytics
+- **Daily Logs**: Quickly track water, feed, light, and the environment.
+- **Vibe Tracking**: Rate each entry with a 1-5 star "Vibe" to monitor plant health.
+- **Plant Stats**: View comprehensive summaries of lifecycle duration, environment averages, and inventory totals.
+- **Rich Media**: Snap up to 3 photos and a video per log with a full-screen viewer.
+- **Smart History**: Highlight logs and collapse date history to keep your journal clean.
+- **Custom Profiles**: Track Cultivar, Genotype, and Growth Habit.
 
-### ⚖️ From Seed to Storage
-- **Life Cycle Tracking**: Move your garden through **Active**, **Dry/Cure**, **Stored**, and **Archived** stages.
-- **Inventory & Yield**: Track exactly what you harvest and what you consume with live inventory totals.
-- **Smart Tools**: Intelligent sign selectors (+/-) and quick-consume buttons for the stuff you log the most.
+### ⚖️ Life Cycle & Growth Phases
+- **Full Tracking**: Progress through **Active**, **Dry/Cure**, **Stored**, and **Archived** stages.
+- **Growth Phases**: Track **Seedling**, **Veg**, **Pre-Flower**, **Flower**, and **Ripening** with a visual progress bar.
+- **Inventory & Value**: Track yield and consumption with live totals. Automatically aggregates exchange values ($, 🪙, 🦄).
+- **Smart Tools**: Quick-consume buttons and one-tap stage/phase advancement.
 
 ### 🔌 Power Tools & Integrations
 - **HomeAssistant**: Bring your live IOT sensor data (Temp/Humidity) right into your journals.
