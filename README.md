@@ -14,19 +14,20 @@ So, I started making my own app: **Dryad Plant Journal**. It's still in Alpha, b
 - **It's your data, period**: Everything is stored locally on your device. No cloud, no prying eyes.
 - **Strictly No ADs**: A clean, distraction-free space to focus on your garden.
 
-### 📝 Journaling & Analytics
-- **Daily Logs**: Quickly track water, feed, light, and the environment.
-- **Vibe Tracking**: Rate each entry with a 1-5 star "Vibe" to monitor plant health.
-- **Plant Stats**: View comprehensive summaries of lifecycle duration, environment averages, and inventory totals.
-- **Rich Media**: Snap up to 3 photos and a video per log with a full-screen viewer.
-- **Smart History**: Highlight logs and collapse date history to keep your journal clean.
+### 📝 Journaling that makes sense
+- **Daily Logs**: Quickly track water, feed, light, and the environment without the headache.
+- **Vibe Tracking**: Rate entries with 1-5 stars to see how your plants are actually doing.
+- **Plant Stats**: Tap the chart to see a summary of your grow—averages for temp, humidity, total water, and more.
+- **Rich Media**: Snap up to 3 photos and a video per log, then check them out in a full-screen viewer.
+- **Clean UI**: Highlight important logs with one tap and tuck away long date history with collapsible headers.
 - **Custom Profiles**: Track Cultivar, Genotype, and Growth Habit.
 
-### ⚖️ Life Cycle & Growth Phases
-- **Full Tracking**: Progress through **Active**, **Dry/Cure**, **Stored**, and **Archived** stages.
-- **Growth Phases**: Track **Seedling**, **Veg**, **Pre-Flower**, **Flower**, and **Ripening** with a visual progress bar.
-- **Inventory & Value**: Track yield and consumption with live totals. Automatically aggregates exchange values ($, 🪙, 🦄).
-- **Smart Tools**: Quick-consume buttons and one-tap stage/phase advancement.
+### ⚖️ Seedling to Storage
+- **Life Cycle Tracking**: Move your garden through **Active**, **Dry/Cure**, **Stored**, and **Archived** stages.
+- **Growth Phases**: Track the details with dedicated **Seedling**, **Veg**, **Pre-Flower**, **Flower**, and **Ripening** phases.
+- **Visual Progress**: A shaded bar on each card shows you exactly where your plant is at a glance.
+- **Inventory & Value**: Track yield and what you consume with live totals. It even parses and sums up values like $, 🪙, and 🦄.
+- **Smart Tools**: Quick-consume buttons and one-tap arrows to advance your growth phases.
 
 ### 🔌 Power Tools & Integrations
 - **HomeAssistant**: Bring your live IOT sensor data (Temp/Humidity) right into your journals.
